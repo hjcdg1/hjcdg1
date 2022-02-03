@@ -19,7 +19,8 @@
 <span><img src="https://img.shields.io/badge/Redux-764abc?style=flat&logo=redux&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Saga-89d96d?style=flat&logo=redux-saga&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jquery&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next-dot-js&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next-dot-js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Recoil-3474DE?style=flat&logo=next-dot-js&logoColor=white"/></span><br/>
 - Back-end : <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></span><br/>
