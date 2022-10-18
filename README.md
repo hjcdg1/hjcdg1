@@ -20,16 +20,20 @@
 <span><img src="https://img.shields.io/badge/Saga-89d96d?style=flat&logo=redux-saga&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jquery&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next-dot-js&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Recoil-3474DE?style=flat&logo=next-dot-js&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/Recoil-3474DE?style=flat&logo=next-dot-js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=next-dot-js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=next-dot-js&logoColor=white"/></span><br/>
 - Backend : <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=heroku&logoColor=white"/></span><br/>
 - Mobile App : <span><img src="https://img.shields.io/badge/React Native-61dafb?style=flat&logo=react&logoColor=white"/></span><br/>
 - Deployment : <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Netlify-00c7b7?style=flat&logo=netlify&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=heroku&logoColor=white"/></span><br/>
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Bitbucket-0052cc?style=flat&logo=bitbucket&logoColor=white"/></span><br/>
