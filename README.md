@@ -46,7 +46,7 @@
 <span><img src="https://img.shields.io/badge/Zeplin-ffbe22?style=flat"/></span>
 <span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white"/></span><br/>
 
-## ✏️ Blog For Learning - <a href="https://it-eldorado.tistory.com">Here</a>
+## ✏️ IT Blog For Learning - <a href="https://it-eldorado.tistory.com">Here</a>
 [![image](https://user-images.githubusercontent.com/40573259/153624815-81711042-78c9-4c50-b358-55fde89ed6d7.png)](https://it-eldorado.tistory.com)
 
 ## 📝 Portfolio Website - <a href="https://cdg-portfolio.com">Here</a>
